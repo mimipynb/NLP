@@ -176,3 +176,7 @@ cython_debug/
 2024studio/
 data/
 .vscode
+
+# Ignore parquet and csv files
+*.parquet
+*.csv
